@@ -8,8 +8,9 @@
     // fruits.push() // readonly string[] 형식에 사용 불가
   }
 
-  // Tuple -> interface, type alias, class
+  // Tuple 
   // 서로 다른 타입을 함께 가질 수 있음
+  // Tuple 대신 interface, type alias, class 대체해서 사용
   // 사용X
   let student: [string, number];
   student = ['name', 123];
