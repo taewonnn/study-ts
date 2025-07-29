@@ -29,6 +29,6 @@
   // day = 10;
   console.log(day);
 
-  let dayOfweek: DaysOfWeek = 'Monday';
+  let dayOfweek: DaysOfWeek = 'Monday'
   dayOfweek = 'Wednesday';
 }
